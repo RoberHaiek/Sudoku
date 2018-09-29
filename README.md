@@ -25,7 +25,7 @@ To play the game you need to enter a command for every step you take (enter name
   - autofill : this command is only available in solve mode. Automatically fills all cells containing a single legal value in this exact moment.
   - reset : undoes all the moves reverting the board to its original loaded state.
   - exit : exits the game.
-Additional information:
+[Additional information:]
 - A fixed cell in the board is marked with a dot "." next to the number in solve mode, fixed cells cannot be changed.
 - The game uses another application called Gurobi to solve the board using integer linear programming.
 - The game uses an exhaustive backtracking algorithm to calculate the number of solutions.
