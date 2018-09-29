@@ -3,10 +3,10 @@
 This is an advanced game of Sudoku I've made in C,
 The game only works on Linux through the terminal, though I'm working on Android Studio to Implement the game on android phones as an app.
 To activate the game:
-  1- Open a terminal on Linux (The easiest way to open a terminal is to use the key combination of Ctrl + Alt + T).
-  2- Go to the directory of the project (Must know how to use simple linux terminal commands to do so).
-  3- Type "make" ,and press the Enter key on the keyboard
-  4- Type "./sudoku"
+  - Open a terminal on Linux (The easiest way to open a terminal is to use the key combination of Ctrl + Alt + T).
+  - Go to the directory of the project (Must know how to use simple linux terminal commands to do so).
+  - Type "make" ,and press the Enter key on the keyboard
+  - Type "./sudoku"
 And now you're in the game.
 
 To play the game you need to enter a command for every step you take (enter name of command [followed by parameters if the command has some] and Enter,but first you must choose a game mode, either solve or edit (will be explained below) and THEN you can use the other commands, here are all the commands:
